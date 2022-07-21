@@ -1,0 +1,13 @@
+proj:
+  outputs:
+    dev:
+      account: yz93723.west-europe.azure
+      database: DEMO
+      password: Welc0me!
+      role: ACCOUNTADMIN
+      schema: DW
+      threads: 5
+      type: snowflake
+      user: RDOVHANYK
+      warehouse: COMPUTE_WH
+  target: dev

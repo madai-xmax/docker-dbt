@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: stage
+    tables:
+      - name: ORDERS
+      
+      - name: PRODUCTS
+      - name: LINEITEM
+
+  - name: dw
+    tables:
+      - name: Dim_Product
