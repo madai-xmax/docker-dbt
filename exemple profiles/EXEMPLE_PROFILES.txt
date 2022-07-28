@@ -1,6 +1,6 @@
 proj:
   outputs:
-    dev:
+    snow:
       account: yz93723.west-europe.azure
       database: DEMO
       password: Welc0me!
@@ -10,4 +10,17 @@ proj:
       type: snowflake
       user: RDOVHANYK
       warehouse: COMPUTE_WH
-  target: dev
+    bigq:
+      dataset: datawarhouse
+      job_execution_timeout_seconds: 300
+      job_retries: 1
+      keyfile: C:\SerMadai\DBT_demo_proj\docker-dbt\bigquery_service\ruba_me4.json
+      location: US
+      method: service-account
+      priority: interactive
+      project: demo2022-357609
+      threads: 5
+      type: bigquery
+  target: snow
+
+

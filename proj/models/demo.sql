@@ -1,12 +1,10 @@
-  {{ config ( enabled = false, materialized='table', schema='DW') }}
+ 
+ {{ config ( enabled = false, materialized='table', schema='DW') }}
 with cte as
 (
   select * 
-  from {{ source('stage', 'ORDERS') }}
-  left join {{ source('stage', 'LINEITEM') }} using (ID,Orderid)
+  from {{ source('STAGE', 'ORDERS') }}
+  left join {{ref('demo_to_ref')}} using (ID)
 )
 select * from cte 
-
---  select OrderDate as Datakey,ORDERNUMBER as ordernum,Quantity
-  --from {{ source('stage', 'ORDERS') }}
-  --left join {{ source('stage', 'LINEITEM') }} using (ID,ORDERID)
+where ID < '{{ var("values_id") }}'

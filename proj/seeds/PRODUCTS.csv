@@ -1,0 +1,52 @@
+﻿Id,CATEGORYNAME,ProductName,Price,IsActive,UPDATED_AT
+1,3," Oil-Free Face Moisturizer",112.55000,1,2010-01-01 00:00:00.000
+2,3,Listerine Total Care Anticavity,32.55000,1,2010-01-01 00:00:00.000
+3,7,Apple Fuji Organic 1kg,10.49000,1,2010-01-01 00:00:00.000
+4,7,"Apple Fuji Organic Each ",1.89000,1,2010-01-01 00:00:00.000
+5,7,"Apple Granny Smith 1kg ",6.99000,1,2010-01-01 00:00:00.000
+6,7,Apple Royal Gala Organic Each,40.05000,1,2010-01-01 00:00:00.000
+7,7,Apple Royal Gala Lunch Box Each,0.31000,1,2010-01-01 00:00:00.000
+8,8,Banana Premium 5 pieces,7.49000,1,2010-01-01 00:00:00.000
+9,8,Banana Smart min 750g,4.43900,1,2010-01-01 00:00:00.000
+10,8,Banana Lady Finger 5 pieces,5.55000,1,2010-01-01 00:00:00.000
+11,8,Banana Eco 5 pieces,9.49000,1,2010-01-01 00:00:00.000
+12,8,Banana Organic Prepacked 500g,5.49000,1,2010-01-01 00:00:00.000
+13,9,Blackberries 125g,5.99000,1,2010-01-01 00:00:00.000
+14,9,"Blueberries 125g ",7.50000,1,2010-01-01 00:00:00.000
+15,9,"Raspberries 125g ",4.50000,1,2010-01-01 00:00:00.000
+16,9,"Strawberries Large 250g ",5.69000,1,2010-01-01 00:00:00.000
+17,8,"Abbotts Bakery Dark Rye 700g ",5.69000,1,2010-01-01 00:00:00.000
+18,10,akery Abbotts Bakery Gluten Free Farmhouse Wholeme,7.80000,1,2010-01-01 00:00:00.000
+19,10,"Bake Stone Deli Olive Oil Pizza Bases x3 450g ",3.99000,1,2010-01-01 00:00:00.000
+20,10,Bakers Collection Vol-Au-Vents x4 160g,5.29000,1,2010-01-01 00:00:00.000
+21,10,"Strawberries Large 250g ",3.69000,1,2010-01-01 00:00:00.000
+22,13,"Abbotts Bakery Absolute Organic Australian Butter ",5.69000,1,2010-01-01 00:00:00.000
+23,13,"r Ballantyne Salted Traditional Butter 250g ",3.99000,1,2010-01-01 00:00:00.000
+24,13,"Ballantyne Spreadable Butter and Canola Oil Blend ",5.29000,1,2010-01-01 00:00:00.000
+25,13,"Coppertree Farms Salted Butter 200g  ",3.69000,1,2010-01-01 00:00:00.000
+26,13,"Absolute Organic Australian Butter UnSalted 250g ",7.50000,1,2010-01-01 00:00:00.000
+27,13,"Harris Farm Farmer Friendly Full Cream Milk 2L   ",2.59000,1,2010-01-01 00:00:00.000
+28,12,A2 Full Cream Milk 1L,5.69000,1,2010-01-01 00:00:00.000
+29,12,"A2 Full Cream Milk 2L  ",3.29000,1,2010-01-01 00:00:00.000
+30,12,Barambah Organics Unhomogenised Cream Top Full Cre,4.74000,1,2010-01-01 00:00:00.000
+31,12,"Bulla Dollop Thick Cream 200ml  ",3.39000,1,2010-01-01 00:00:00.000
+32,12,"Inside Out Oat Milk 1L    ",4.49000,1,2010-01-01 00:00:00.000
+33,14,Harris Farm All Butter Croissants X,3.75000,1,2010-01-01 00:00:00.000
+34,14,Harris Farm All Butter Mini Croissants X8,22.40000,1,2010-01-01 00:00:00.000
+35,16,Lilydale Free Range Chicken Breast Fillets 800g-1.,17.69000,1,2010-01-01 00:00:00.000
+36,16,Lilydale Free Range Chicken 1.4-1.7kg,23.29000,1,2010-01-01 00:00:00.000
+37,16,"Golden Cockerel Chicken Tenderloins 450-650g ",44.40000,1,2010-01-01 00:00:00.000
+38,16,Hazeldenes Free Range Boneless Chicken Souvlaki 80,20.60000,1,2010-01-01 00:00:00.000
+39,16,Hazeldenes Free Range Boneless Chicken 700-900g,13.49000,1,2010-01-01 00:00:00.000
+40,18,SoHi Garden Envy Gin 500m,74.00000,1,2010-01-01 00:00:00.000
+41,18,Lucky Cat Amber Gris King Valley VIC 750ml,25.29000,1,2010-01-01 00:00:00.000
+42,18,Jumping Juice Single Vineyard Grenache VIC 750mL,39.00000,1,2010-01-01 00:00:00.000
+43,18,Dawning Day The Bandit Gin 500ml,65.60000,1,2010-01-01 00:00:00.000
+44,18,Ca Del Sole Sparkling Rose Spumante Veneto Italy 7,34.42000,1,2010-01-01 00:00:00.000
+45,18,Soumah Chardonnay Yarra Valley VIC 750ml,37.00000,1,2010-01-01 00:00:00.000
+46,20,Raw Banana Prawns Large Min 1kg,35.00000,1,2010-01-01 00:00:00.000
+47,20,Raw Lobster Tail Large Min 180g,25.00000,1,2010-01-01 00:00:00.000
+48,20,Prawns Raw Meat Min 500g,30.00000,1,2010-01-01 00:00:00.000
+49,20,Fish In The Family Lobster Cooked Each,29.99000,1,2010-01-01 00:00:00.000
+50,20,Fish In The Family Hervey Bay Scallops Roe Off Per,26.99000,1,2010-01-01 00:00:00.000
+52,18,liqer Vunnki,99.00000,1,2010-01-01 00:00:00.000
